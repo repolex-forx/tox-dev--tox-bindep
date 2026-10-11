@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "tox-bindep",
+  "versions": [
+    {
+      "commit": "7edd12e2cfef30afc487256e2d26e3399da83aa7",
+      "parsed_at": "2026-10-11T19:32:22.943077+00:00",
+      "filetree": "filetree/7edd12e2cfef30afc487256e2d26e3399da83aa7.nq.gz",
+      "blobs": [
+        "blob/be06375b76df73c1d87c7eca65ae6016566de1b9.nq.gz",
+        "blob/3f0e4cffca7b13e2e28baf4127a0a9e51ed4525e.nq.gz",
+        "blob/a203ea820c0d822b3fab67597c1810ec1b250906.nq.gz",
+        "blob/d074f5ea0e3e1f87f2d0d3e12136533003244293.nq.gz",
+        "blob/216b51a365a099a3c3c61c52f8cf70ba1890fff2.nq.gz",
+        "blob/69cb76019a474330e99666f147ecb85e44de1ce6.nq.gz",
+        "blob/201a7022bebbc4a6795539b4fef3f8eb25eea647.nq.gz",
+        "blob/07903da40c72666d0678b0e719b93cd0c07d7808.nq.gz",
+        "blob/a444debdfcf6f65fc44e4e18bbb10573e61aa5cb.nq.gz",
+        "blob/24f7577b2b98f3d6de3923f12abace8c206e9657.nq.gz",
+        "blob/16bd48128d57181c4ab04bb428230f8624a5d370.nq.gz",
+        "blob/7eee103fe236b35e961f8506163c497082af1fda.nq.gz",
+        "blob/aeb4cdfae85b651b0c3b9914506781b4868e8d78.nq.gz",
+        "blob/d648fff8a815a63deede2a9d89d7a9f3b1c4789f.nq.gz",
+        "blob/19132d0029a6a68c1a8003d8df761ce285f92c38.nq.gz",
+        "blob/81563ee157d000306a5197ccd8906802c0373a89.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ebec45b1a0cf9a79f94ba656505f17c31688d93f.nq.gz",
+        "blob/5e3f6e5a61731465fa66488c8a50d87b6f73ce94.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
