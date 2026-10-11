@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "tox-bindep",
+  "versions": [
+    {
+      "commit": "7edd12e2cfef30afc487256e2d26e3399da83aa7",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:34:23.335801+00:00"
+    }
+  ]
+}
