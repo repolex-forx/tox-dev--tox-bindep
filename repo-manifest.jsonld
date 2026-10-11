@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-bindep/commit/7edd12e2cfef30afc487256e2d26e3399da83aa7",
       "git:hexsha": "7edd12e2cfef30afc487256e2d26e3399da83aa7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-bindep/commit/38af1daf10d80aab14c4140725930bdc8fd4c3e2",
